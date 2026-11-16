@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34919565/README.md)
 <p align="center">
   <img src="assets/header.svg" alt="심준형 · AI · Computer Vision" width="100%">
 </p>
@@ -11,13 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-F3F4F6?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-F3F4F6?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
-  <img src="https://img.shields.io/badge/YOLO-F3F4F6?style=flat-square&logo=ultralytics&logoColor=111F68" alt="YOLO">
-  <img src="https://img.shields.io/badge/OpenCV-F3F4F6?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
-  <img src="https://img.shields.io/badge/FastAPI-F3F4F6?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Docker-F3F4F6?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux_·_WSL-F3F4F6?style=flat-square&logo=linux&logoColor=333333" alt="Linux · WSL">
+  <a href="mailto:sjh921110@naver.com"><img src="https://img.shields.io/badge/sjh921110@naver.com-F3F4F6?style=flat-square&logo=naver&logoColor=03C75A" alt="Email"></a>
 </p>
 
 <br>
@@ -62,6 +55,25 @@
 <p><b>활용</b> &nbsp;ROI · Otsu · Morphology · Contour · Feature Matching</p>
 
 <br clear="left">
+
+## Tech Stack
+
+<p><sub><b>LANGUAGE</b></sub>&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-F3F4F6?style=flat-square&logo=python&logoColor=3776AB" alt="Python"></p>
+
+<p><sub><b>AI · DEEP LEARNING</b></sub>&nbsp;&nbsp; <img src="https://img.shields.io/badge/PyTorch-F3F4F6?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"> <img src="https://img.shields.io/badge/YOLO-F3F4F6?style=flat-square&logo=ultralytics&logoColor=111F68" alt="YOLO"> <img src="https://img.shields.io/badge/Hugging_Face-F3F4F6?style=flat-square&logo=huggingface&logoColor=FFB000" alt="Hugging Face"></p>
+
+<p><sub><b>COMPUTER VISION</b></sub>&nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenCV-F3F4F6?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV"> <img src="https://img.shields.io/badge/NumPy-F3F4F6?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy"></p>
+
+<p><sub><b>BACKEND · SERVING</b></sub>&nbsp;&nbsp; <img src="https://img.shields.io/badge/FastAPI-F3F4F6?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"> <img src="https://img.shields.io/badge/Celery-F3F4F6?style=flat-square&logo=celery&logoColor=37814A" alt="Celery"> <img src="https://img.shields.io/badge/Redis-F3F4F6?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis"> <img src="https://img.shields.io/badge/PostgreSQL-F3F4F6?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-F3F4F6?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"></p>
+
+<p><sub><b>TOOLS</b></sub>&nbsp;&nbsp; <img src="https://img.shields.io/badge/Linux_·_WSL-F3F4F6?style=flat-square&logo=linux&logoColor=333333" alt="Linux · WSL"> <img src="https://img.shields.io/badge/Git-F3F4F6?style=flat-square&logo=git&logoColor=F05032" alt="Git"> <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat-square&logo=github&logoColor=181717" alt="GitHub"></p>
+
+<br>
+
+## Education
+
+<p><b>[비솔] 현장 데이터 기반 Vision AI &amp; 산업분야 Vertical AI 융합 전문가 양성</b><br>
+<sub>KH정보교육원 · K-디지털 트레이닝 · 2026.07 – 2027.02 (수료 예정)</sub></p>
 
 <br>
 
