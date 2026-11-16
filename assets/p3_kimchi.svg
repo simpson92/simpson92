@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+  <rect width="640" height="360" rx="16" fill="#FCF2EB"/>
+  <text x="32" y="46" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#C2622D">OBJECT DETECTION · LABEL QA</text>
+  <!-- image frame -->
+  <rect x="40" y="76" width="300" height="236" rx="12" fill="#FFFFFF" stroke="#F0D9C8"/>
+  <g fill="#F2C5A5">
+    <path d="M70 230 C 90 170, 160 150, 200 190 C 240 150, 300 180, 310 240 C 260 290, 120 290, 70 230 Z"/>
+  </g>
+  <g fill="#E79C6E">
+    <ellipse cx="140" cy="215" rx="34" ry="20"/>
+    <ellipse cx="235" cy="225" rx="40" ry="22"/>
+    <ellipse cx="190" cy="255" rx="30" ry="16"/>
+  </g>
+  <!-- foreign object + bbox -->
+  <rect x="212" y="186" width="22" height="8" rx="3" fill="#5B6472" transform="rotate(-20 223 190)"/>
+  <rect x="198" y="168" width="52" height="42" rx="4" fill="none" stroke="#E0453A" stroke-width="2.5"/>
+  <rect x="198" y="152" width="48" height="16" rx="3" fill="#E0453A"/>
+  <text x="203" y="164" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#fff">metal</text>
+  <rect x="108" y="196" width="40" height="34" rx="4" fill="none" stroke="#2F7DD1" stroke-width="2" stroke-dasharray="5 4"/>
+  <!-- QA panel -->
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="14">
+    <rect x="370" y="76" width="232" height="236" rx="12" fill="#FFFFFF" stroke="#F0D9C8"/>
+    <text x="390" y="108" fill="#9CA3AF" font-size="12" letter-spacing="1.5">REVIEW</text>
+    <rect x="390" y="124" width="192" height="40" rx="8" fill="#EAF6EE"/>
+    <circle cx="410" cy="144" r="8" fill="#3F9A5C"/>
+    <path d="M406 144 l3 3 l5 -6" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="428" y="149" fill="#1F2937">PASS</text>
+    <rect x="390" y="174" width="192" height="40" rx="8" fill="#FFF4E5"/>
+    <circle cx="410" cy="194" r="8" fill="#E39A2D"/>
+    <path d="M406 197 l7 -7" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <text x="428" y="199" fill="#1F2937">EDITED</text>
+    <rect x="390" y="224" width="192" height="40" rx="8" fill="#F3F4F6"/>
+    <circle cx="410" cy="244" r="8" fill="#9CA3AF"/>
+    <text x="406.5" y="248.5" fill="#fff" font-size="12" font-weight="700">?</text>
+    <text x="428" y="249" fill="#1F2937">REVIEW</text>
+    <text x="390" y="294" fill="#C2622D" font-size="13">900 / 900 checked</text>
+  </g>
+</svg>

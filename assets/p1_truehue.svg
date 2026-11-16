@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+  <rect width="640" height="360" rx="16" fill="#F5F3FC"/>
+  <text x="32" y="46" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#7C6BC4">COLOR CONSTANCY</text>
+  <!-- three tinted captures -->
+  <g>
+    <rect x="48" y="92" width="120" height="58" rx="10" fill="#E9B98A"/>
+    <rect x="48" y="160" width="120" height="58" rx="10" fill="#8FB3E8"/>
+    <rect x="48" y="228" width="120" height="58" rx="10" fill="#5A6B86"/>
+    <g fill="#FFFFFF" fill-opacity=".9" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">
+      <text x="62" y="126">warm light</text>
+      <text x="62" y="194">cool light</text>
+      <text x="62" y="262">dim light</text>
+    </g>
+  </g>
+  <!-- arrows converge -->
+  <g stroke="#B7AEE0" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M178 121 C 240 121, 250 189, 300 189"/>
+    <path d="M178 189 L 300 189"/>
+    <path d="M178 257 C 240 257, 250 189, 300 189"/>
+  </g>
+  <!-- estimator node -->
+  <circle cx="330" cy="189" r="30" fill="#FFFFFF" stroke="#7C6BC4" stroke-width="2"/>
+  <g stroke="#7C6BC4" stroke-width="2" fill="none" stroke-linecap="round">
+    <circle cx="330" cy="189" r="9"/>
+    <path d="M330 168 v6 M330 204 v6 M309 189 h6 M345 189 h6 M315 174 l4 4 M341 200 l4 4 M345 174 l-4 4 M315 204 l4 -4"/>
+  </g>
+  <path d="M362 189 L 420 189" stroke="#7C6BC4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M414 183 L 422 189 L 414 195" stroke="#7C6BC4" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- true color card -->
+  <rect x="436" y="122" width="168" height="134" rx="14" fill="#FFFFFF" stroke="#E4E0F5"/>
+  <rect x="452" y="138" width="136" height="64" rx="10" fill="#2F6FD1"/>
+  <text x="452" y="232" font-family="'JetBrains Mono', Consolas, monospace" font-size="20" font-weight="700" fill="#1F2937">BLUE</text>
+  <circle cx="578" cy="226" r="9" fill="#7C6BC4"/>
+  <path d="M573 226 l3.5 3.5 l6 -7" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
