@@ -1,37 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
-  <rect width="640" height="360" rx="16" fill="#EDF3FA"/>
-  <text x="32" y="46" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#3B74B5">RULE-BASED MACHINE VISION</text>
-  <!-- conveyor -->
-  <rect x="40" y="282" width="560" height="14" rx="7" fill="#C9D8EA"/>
-  <g fill="#FFFFFF" stroke="#A9BFDA" stroke-width="2">
-    <circle cx="70" cy="289" r="10"/><circle cx="570" cy="289" r="10"/>
-  </g>
-  <!-- bottle with cap (OK) -->
-  <g transform="translate(22 0)">
-    <rect x="128" y="118" width="40" height="24" rx="5" fill="#3B74B5"/>
-    <path d="M132 142 h32 v18 c22 10 30 26 30 46 v68 c0 6 -4 8 -8 8 h-76 c-4 0 -8 -2 -8 -8 v-68 c0 -20 8 -36 30 -46 z" fill="#FFFFFF" stroke="#A9BFDA" stroke-width="2"/>
-    <rect x="114" y="104" width="68" height="52" rx="6" fill="none" stroke="#3B74B5" stroke-width="2" stroke-dasharray="6 5"/>
-    <rect x="114" y="208" width="68" height="28" rx="14" fill="#E7F4EC"/>
-    <text x="134" y="227" font-family="'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#2F8A52">OK</text>
-  </g>
-  <!-- bottle without cap (NG) -->
-  <g transform="translate(10 0)">
-    <path d="M312 142 h32 v18 c22 10 30 26 30 46 v68 c0 6 -4 8 -8 8 h-76 c-4 0 -8 -2 -8 -8 v-68 c0 -20 8 -36 30 -46 z" fill="#FFFFFF" stroke="#A9BFDA" stroke-width="2"/>
-    <rect x="294" y="104" width="68" height="52" rx="6" fill="none" stroke="#D9534F" stroke-width="2" stroke-dasharray="6 5"/>
-    <rect x="294" y="208" width="68" height="28" rx="14" fill="#FBEAEA"/>
-    <text x="314" y="227" font-family="'JetBrains Mono', Consolas, monospace" font-size="15" font-weight="700" fill="#C2413D">NG</text>
-  </g>
-  <!-- measurement panel -->
-  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="13">
-    <rect x="426" y="96" width="176" height="160" rx="12" fill="#FFFFFF" stroke="#D3E0EF"/>
-    <text x="444" y="124" fill="#9CA3AF" font-size="11" letter-spacing="1.5">AREA RATIO</text>
-    <text x="444" y="152" fill="#1F2937">cap_on</text>
-    <rect x="444" y="160" width="140" height="8" rx="4" fill="#E5EDF6"/>
-    <rect x="444" y="160" width="93" height="8" rx="4" fill="#3B74B5"/>
-    <text x="444" y="194" fill="#1F2937">cap_off</text>
-    <rect x="444" y="202" width="140" height="8" rx="4" fill="#E5EDF6"/>
-    <rect x="444" y="202" width="64" height="8" rx="4" fill="#D9534F"/>
-    <path d="M495 155 v18 M495 197 v18" stroke="#1F2937" stroke-width="2"/>
-    <text x="444" y="240" fill="#6B7280" font-size="11">threshold fixed first</text>
-  </g>
+<defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#DCE7F3" stroke-width="1"/></pattern></defs>
+<rect width="640" height="360" rx="16" fill="#EDF3FA"/>
+<rect x="16" y="16" width="608" height="328" rx="10" fill="url(#g)" opacity=".55"/>
+<text x="608" y="44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13" fill="#6B7280" text-anchor="end">2026.10.27 – 11.03</text><text x="32" y="44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15" letter-spacing="2" fill="#2F64A3">RULE-BASED MACHINE VISION</text><line x1="32" y1="56" x2="60" y2="56" stroke="#2F64A3" stroke-width="2"/><path d="M152 132 h36 v20 c26 10 36 30 36 54 v82 c0 6 -4 9 -9 9 h-90 c-5 0 -9 -3 -9 -9 v-82 c0 -24 10 -44 36 -54 z" fill="#FFFFFF" fill-opacity=".7" stroke="#2F64A3" stroke-width="1.5"/><rect x="148" y="106" width="44" height="26" rx="2" fill="#DCE7F5" stroke="#2F64A3" stroke-width="1.5"/><line x1="156.8" y1="108" x2="156.8" y2="130" stroke="#2F64A3" stroke-opacity=".35"/><line x1="165.6" y1="108" x2="165.6" y2="130" stroke="#2F64A3" stroke-opacity=".35"/><line x1="174.4" y1="108" x2="174.4" y2="130" stroke="#2F64A3" stroke-opacity=".35"/><line x1="183.2" y1="108" x2="183.2" y2="130" stroke="#2F64A3" stroke-opacity=".35"/><line x1="170" y1="90" x2="170" y2="312" stroke="#9CA3AF" stroke-dasharray="10 3 2 3"/><rect x="130" y="94" width="80" height="50" fill="none" stroke="#D9463B" stroke-width="1.4" stroke-dasharray="5 4"/><text x="130" y="88" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.0" fill="#D9463B" text-anchor="start" font-weight="400">ROI</text><path d="M196 106 H234 M196 132 H234" stroke="#9CA3AF" stroke-width="1"/><path d="M228 109 V129 M225 113 L228 107 L231 113 M225 125 L228 131 L231 125" fill="none" stroke="#6B7280" stroke-width="1"/><text x="238" y="123" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.0" fill="#6B7280" text-anchor="start" font-weight="400">h_cap</text><line x1="70" y1="306" x2="300" y2="306" stroke="#9CA3AF"/><line x1="70" y1="306" x2="64" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="82" y1="306" x2="76" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="94" y1="306" x2="88" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="106" y1="306" x2="100" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="118" y1="306" x2="112" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="130" y1="306" x2="124" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="142" y1="306" x2="136" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="154" y1="306" x2="148" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="166" y1="306" x2="160" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="178" y1="306" x2="172" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="190" y1="306" x2="184" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="202" y1="306" x2="196" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="214" y1="306" x2="208" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="226" y1="306" x2="220" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="238" y1="306" x2="232" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="250" y1="306" x2="244" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="262" y1="306" x2="256" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="274" y1="306" x2="268" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="286" y1="306" x2="280" y2="314" stroke="#9CA3AF" stroke-width=".8"/><line x1="298" y1="306" x2="292" y2="314" stroke="#9CA3AF" stroke-width=".8"/><text x="384" y="98" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.7" fill="#9CA3AF" text-anchor="start" font-weight="400">mask = otsu(roi)</text><rect x="384" y="106" width="150" height="94" fill="#111827"/><rect x="422" y="128" width="74" height="44" rx="3" fill="#F9FAFB"/><rect x="422" y="128" width="74" height="44" rx="3" fill="none" stroke="#60A5FA" stroke-width="1" stroke-dasharray="3 2"/><text x="542" y="200" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="12.3" fill="#9CA3AF" text-anchor="start" font-weight="400">128×80</text><text x="384" y="236" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15.0" fill="#6B7280" text-anchor="start" font-weight="400">area_ratio</text><text x="604" y="236" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15.0" fill="#1F2937" text-anchor="end" font-weight="700">0.661</text><text x="384" y="260" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15.0" fill="#6B7280" text-anchor="start" font-weight="400">threshold</text><text x="604" y="260" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15.0" fill="#1F2937" text-anchor="end" font-weight="700">0.3608</text><text x="384" y="284" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15.0" fill="#6B7280" text-anchor="start" font-weight="400">decision</text><text x="604" y="284" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="15.0" fill="#2F8A52" text-anchor="end" font-weight="700">OK</text><line x1="384" y1="296" x2="604" y2="296" stroke="#D3E0EF"/><text x="384" y="316" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, Menlo, monospace" font-size="13.7" fill="#2F64A3" text-anchor="start" font-weight="400">rule frozen · v1.0</text>
 </svg>
