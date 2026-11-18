@@ -17,7 +17,7 @@
 
 ## Projects
 
-<a href="https://github.com/simpson92/TrueHue"><img src="assets/p1_truehue.svg" alt="TrueHue" width="320" align="left"></a>
+<a href="https://github.com/simpson92/TrueHue"><img src="assets/p1_truehue_v2.svg" alt="TrueHue" width="320" align="left"></a>
 
 <h3><a href="https://github.com/simpson92/TrueHue">TrueHue</a></h3>
 <sub>2026.10.27 – 11.13 · 2인 팀 · 구현 주도</sub>
@@ -42,7 +42,11 @@
 
 <br>
 
-<a href="https://github.com/simpson92/leaf-health-classifier"><img src="assets/p2_leaf.svg" alt="Leaf Health Classifier" width="320" align="left"></a>
+<img src="assets/divider.svg" alt="" width="100%">
+
+<br>
+
+<a href="https://github.com/simpson92/leaf-health-classifier"><img src="assets/p2_leaf_v2.svg" alt="Leaf Health Classifier" width="320" align="left"></a>
 
 <h3><a href="https://github.com/simpson92/leaf-health-classifier">Leaf Health Classifier</a></h3>
 <sub>2026.11.04 – 11.05 · 과제평가 · 개인</sub>
@@ -68,7 +72,11 @@
 
 <br>
 
-<a href="https://github.com/simpson92/KH_Project_Subject7-8"><img src="assets/p3_kimchi.svg" alt="조각김치 이물 검출" width="320" align="left"></a>
+<img src="assets/divider.svg" alt="" width="100%">
+
+<br>
+
+<a href="https://github.com/simpson92/KH_Project_Subject7-8"><img src="assets/p3_kimchi_v2.svg" alt="조각김치 이물 검출" width="320" align="left"></a>
 
 <h3><a href="https://github.com/simpson92/KH_Project_Subject7-8">조각김치 이물 검출</a></h3>
 <sub>2026.10.02 – 진행 중 · 5인 팀 · QA · Data 담당</sub>
@@ -93,7 +101,11 @@
 
 <br>
 
-<a href="https://github.com/simpson92/KH_Project_Subject9"><img src="assets/p4_bottlecap.svg" alt="병뚜껑 유무 검사" width="320" align="left"></a>
+<img src="assets/divider.svg" alt="" width="100%">
+
+<br>
+
+<a href="https://github.com/simpson92/KH_Project_Subject9"><img src="assets/p4_bottlecap_v2.svg" alt="병뚜껑 유무 검사" width="320" align="left"></a>
 
 <h3><a href="https://github.com/simpson92/KH_Project_Subject9">병뚜껑 유무 검사 · 머신비전</a></h3>
 <sub>2026.10.27 – 11.03 · 교과 실습 · 개인</sub>
